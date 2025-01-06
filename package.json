@@ -65,7 +65,7 @@
 	"dependencies": {
 		"@sindresorhus/merge-streams": "^2.1.0",
 		"fast-glob": "^3.3.2",
-		"ignore": "^5.2.4",
+		"ignore": "^6.0.2",
 		"path-type": "^5.0.0",
 		"slash": "^5.1.0",
 		"unicorn-magic": "^0.2.0"
