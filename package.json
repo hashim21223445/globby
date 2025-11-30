@@ -73,7 +73,7 @@
 	"devDependencies": {
 		"@globby/main-branch": "sindresorhus/globby#main",
 		"@types/node": "^20.9.0",
-		"ava": "^5.3.1",
+		"ava": "^6.2.0",
 		"benchmark": "2.1.4",
 		"glob-stream": "^8.0.0",
 		"tempy": "^3.1.0",
